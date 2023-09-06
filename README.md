@@ -1,4 +1,4 @@
-# 💫 Hey I'm Athul Sabu
+# 💫 Hi, I'm Athul Sabu
 🔭 I’m currently working on some web dev Projects<br>🤝 I’m looking for help with web dev<br>🌱 I’m currently learning Node.js<br>💬 Ask me about c, java, html, css, js
 
 
