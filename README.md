@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; max-width: 50%; padding-right: 20px;">
     - 🔭 I'm currently working on <b>web development projects</b>
     <br>
