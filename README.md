@@ -22,9 +22,9 @@
     <br>
     - 💬 Ask me about <b>Node.js, express</b>
   </div>
-  <div style="max-width: 50%; padding-left: 20px;">
+  <p align="right" style="max-width: 50%; padding-left: 20px;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs0ZXpnenFlODNsajY0eG0zYTYyZGF3YzVwaGo3ZGJiMjhpejQ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" />
-  </div>
+  </p>
 </div>
 
 
