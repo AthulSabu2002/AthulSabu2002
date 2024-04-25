@@ -1,6 +1,8 @@
+<div style="max-width: 800px; margin: 0 auto;">
+
 <h1 align="center">Hi 👋, I'm Athul Sabu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+web,+one+pixel+at+a+time.;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=18&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+web,+one+pixel+at+a+time.;Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=18&pause=1000" />
 </p>
 
 
@@ -42,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulsabu2002&show_icons=true&locale=en" alt="athulsabu2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulsabu2002&" alt="athulsabu2002" /></p>
+
+</div>
