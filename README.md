@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athul Sabu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+web,+one+pixel+at+a+time.;Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+web,+one+pixel+at+a+time.;Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=460&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulsabu2002&label=Profile%20views&color=0e75b6&style=flat" alt="athulsabu2002" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column;">
   <div style="display: flex; align-items: center; justify-content: center;">
     <div style="max-width: 50%; padding-right: 20px;">
       - 🔭 I'm currently working on <b>web development projects</b>
