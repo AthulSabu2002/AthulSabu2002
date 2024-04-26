@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+web,+one+pixel+at+a+time.;Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=18&pause=1000" />
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athulsabu2002&label=Profile%20views&color=0e75b6&style=flat" alt="athulsabu2002" /> </p>
-
 ![](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -44,5 +41,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AthulSabu2002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AthulSabu2002&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSabu2002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athulsabu2002&label=Profile%20views&color=0e75b6&style=flat" alt="athulsabu2002" /> </p>
 
 </div>
