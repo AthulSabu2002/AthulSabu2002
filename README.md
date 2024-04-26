@@ -12,18 +12,22 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-  <p align="left">
-    - 🔭 I'm currently working on <b>web development projects</b>
-    <br>
-    - 🌱 I'm currently learning <b>ReactJS</b>
-    <br>
-    - 🤝 I'm looking for help with <b>ReactJS</b>
-    <br>
-    - 💬 Ask me about <b>Node.js, express</b>
-  </p>
-  <p align="right">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs0ZXpnenFlODNsajY0eG0zYTYyZGF3YzVwaGo3ZGJiMjhpejQ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="200" />
-  </p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p align="left">
+      - 🔭 I'm currently working on <b>web development projects</b><br>
+      - 🌱 I'm currently learning <b>ReactJS</b><br>
+      - 🤝 I'm looking for help with <b>ReactJS</b><br>
+      - 💬 Ask me about <b>Node.js, express</b>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <p align="right">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs0ZXpnenFlODNsajY0eG0zYTYyZGF3YzVwaGo3ZGJiMjhpejQ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="200" />
+    </p>
+  </div>
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
