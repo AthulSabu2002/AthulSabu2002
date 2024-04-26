@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulsabu2002&label=Profile%20views&color=0e75b6&style=flat" alt="athulsabu2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athulsabu2002" alt="athulsabu2002" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
