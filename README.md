@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+web,+one+pixel+at+a+time.;Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=18&pause=1000" />
 </p>
 
+![](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 20px;">
@@ -22,9 +24,6 @@
     </td>
   </tr>
 </table>
-
-![](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
