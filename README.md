@@ -12,8 +12,8 @@
     <td style="border: none; padding-right: 20px;">
       <p align="left">
         - 🔭 I'm currently working on <b>web development projects</b><br>
-        - 🌱 I'm currently learning <b>ReactJS</b><br>
-        - 🤝 I'm looking for help with <b>ReactJS</b><br>
+        - 🌱 I'm currently learning <b>Next.js</b><br>
+        - 🤝 I'm looking for help with <b>Next.js</b><br>
         - 💬 Ask me about <b>Node.js, express</b>
       </p>
     </td>
