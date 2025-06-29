@@ -64,7 +64,7 @@ I am an aspiring software developer with a passion for learning and building rea
 
 <div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=darkhub&no-frame=false&margin-w=40&column=9&row=1)](https://github.com/AthulSabu2002)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=darkhub&no-frame=false&margin-w=10&column=9&row=1)](https://github.com/AthulSabu2002)
 
 </div>
 </div>
