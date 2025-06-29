@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Passionate+about+learning+and+building+projects;Ready+to+tackle+new+challenges&font=Fira%20Code&center=true&width=450&height=45&color=2e7eff&vCenter=true&size=16&pause=1000" />
 </p>
 
-
 [![Profile Views](https://komarev.com/ghpvc/?username=athulsabu2002&label=Profile%20Views&color=2e7eff&style=flat)](https://github.com/AthulSabu2002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/athul-sabu-417a5327b)
 
@@ -18,10 +17,10 @@
 
 I am an aspiring software developer with a passion for learning and building real-world solutions. I bring versatility and a growth mindset, with the adaptability to work across various tech stacks.
 
-- **Technical Flexibility:** Able to apply core engineering principles across diverse domains and frameworks  
-- **Continuous Learning:** Always expanding my skills and staying updated with evolving technologies  
-- **Team Collaboration:** Comfortable working in cross-functional teams to solve practical problems  
-- **Hands-On Experience:** Built projects using technologies like React.js, Next.js, Node.js, and Express.js  
+- **Technical Flexibility:** Able to apply core engineering principles across diverse domains and frameworks
+- **Continuous Learning:** Always expanding my skills and staying updated with evolving technologies
+- **Team Collaboration:** Comfortable working in cross-functional teams to solve practical problems
+- **Hands-On Experience:** Built projects using technologies like React.js, Next.js, Node.js, and Express.js
 
 <br clear="right"/>
 
@@ -57,15 +56,15 @@ I am an aspiring software developer with a passion for learning and building rea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AthulSabu2002&theme=prussian&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AthulSabu2002&theme=prussian&hide_border=true" alt="GitHub Streak" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSabu2002&theme=prussian&hide_border=true&layout=compact" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=AthulSabu2002&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AthulSabu2002&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSabu2002&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="150" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=nord&no-frame=true&margin-w=4&row=1)](https://github.com/AthulSabu2002)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=darkhub&no-frame=true&margin-w=4&row=1)](https://github.com/AthulSabu2002)
 
 </div>
 </div>
