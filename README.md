@@ -56,15 +56,15 @@ I am an aspiring software developer with a passion for learning and building rea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AthulSabu2002&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AthulSabu2002&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSabu2002&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=AthulSabu2002&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&border_color=30363d" alt="GitHub Stats" height="150" style="margin: 5px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AthulSabu2002&theme=github_dark&hide_border=false&border=30363d" alt="GitHub Streak" height="150" style="margin: 5px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulSabu2002&theme=github_dark&hide_border=false&layout=compact&border_color=30363d" alt="Top Languages" height="150" style="margin: 5px;" />
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=darkhub&no-frame=true&margin-w=4&row=1)](https://github.com/AthulSabu2002)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AthulSabu2002&theme=darkhub&no-frame=false&margin-w=40&column=9&row=1)](https://github.com/AthulSabu2002)
 
 </div>
 </div>
