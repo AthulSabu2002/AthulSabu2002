@@ -11,10 +11,10 @@
   <tr style="border: none;">
     <td style="border: none; padding-right: 20px;">
       <p align="left">
-        - 🔭 I'm currently working on <b>web development projects</b><br>
-        - 🌱 I'm currently learning <b>Next.js</b><br>
-        - 🤝 I'm looking for help with <b>Next.js</b><br>
-        - 💬 Ask me about <b>Node.js, express</b>
+        - 🚀 I'm currently working on <b> web development projects</b><br>
+        - 🌱 I'm exploring <b>new technologies and modern web frameworks</b><br>
+        - 💼 Open to <b>web development collaborations & projects</b><br>
+        - 💬 Ask me about <b>React.js, Next.js, Node.js & Express.js</b>
       </p>
     </td>
     <td style="border: none; padding-left: 20px;">
